@@ -1,4 +1,4 @@
-# demoapp
+# quotesapp
 
 A new Flutter project.
 
